@@ -3,7 +3,7 @@
 % ============================================================================
 %
 % UniThesis.cls (Modification of ClemsonThesis - Andrew R. Dalton)
-% Universidad Nacional de IngenierÌa Thesis/Dissertation Template
+% Universidad Nacional de Ingenier√≠a Thesis/Dissertation Template
 % Developed by Erick Chacon Montalvan, School of Statistics
 %
 % ============================================================================
@@ -49,7 +49,7 @@
     \fancyhf{} % clear all header and footer fields
 }}
 
-\renewcommand{\appendixpagename}{ApÈndice}  % appendix name
+\renewcommand{\appendixpagename}{Ap√©ndice}  % appendix name
 \appto\frontmatter{\pagestyle{plain}}       % pagestyle frontmatter
 \appto\mainmatter{\pagestyle{fancy}}        % pagestyle mainmatter
 \appto\backmatter{\pagestyle{fancy}}        % pagestyle backmatter
@@ -198,7 +198,7 @@
           {\ }\\[.5ex]
           {\sc \LARGE \textbf \theTitle}\\[3ex]
           {\large \theDocumentType}\\[2ex]
-          {\large PARA OPTAR EL TÕTULO PROFESIONAL DE \theMajor\\
+          {\large PARA OPTAR EL T√çTULO PROFESIONAL DE \theMajor\\
           POR LA MODALIDAD DE \theDocumentType}\\[3ex]
           {\large ELABORADO POR}\\[2ex]
           {\Large \textbf \theAuthor}\\[3ex]
