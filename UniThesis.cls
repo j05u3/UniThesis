@@ -29,7 +29,7 @@
 \usepackage{fancyhdr}                                 % Control header, footer position
 \usepackage{graphicx}                                 % Include figures
 \usepackage{setspace}                                 % Control spacing
-\usepackage[latin1]{inputenc}                         % Coding latin1
+\usepackage[utf8]{inputenc}                           % Coding utf8
 \usepackage[spanish]{babel}                           % Spanish languaje
 \usepackage{helvet}                                   % Use Arial Font
 \usepackage{color}                                    % Manage colors
