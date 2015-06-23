@@ -24,5 +24,6 @@ Although I do not try to make a manual to write a thesis, I made some tips, main
 
 [2] James, E.(2003). Guide to the Successful Thesis and Dissertation, A Handbook for Students and Faculty, Fifth Edition, University of Pittsburgh, Pennsylvania, U.S.A.
 
+Note: Now supports utf8 and it is possible to upload it to sharelatex.com and work there
 
 
